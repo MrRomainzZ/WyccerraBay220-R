@@ -16,7 +16,7 @@
 	allowed_branches = list(/datum/mil_branch/employee)
 	allowed_ranks = list(/datum/mil_rank/civ/nt)
 
-	skill_points = 24
+	//skill_points = 24
 	min_skill = list(   SKILL_COMPUTER     = SKILL_BASIC,
 	                    SKILL_EVA          = SKILL_TRAINED,
 	                    SKILL_CONSTRUCTION = SKILL_TRAINED,
@@ -76,7 +76,7 @@
 	allowed_branches = list(/datum/mil_branch/employee, /datum/mil_branch/contractor)
 	allowed_ranks = list(/datum/mil_rank/civ/nt, /datum/mil_rank/civ/contractor)
 
-	skill_points = 20
+	//skill_points = 20
 	min_skill = list(   SKILL_COMPUTER     = SKILL_BASIC,
 	                    SKILL_EVA          = SKILL_TRAINED,
 	                    SKILL_CONSTRUCTION = SKILL_TRAINED,
@@ -127,7 +127,7 @@
 	allowed_ranks = list(/datum/mil_rank/civ/nt, /datum/mil_rank/civ/contractor)
 
 	no_skill_buffs = TRUE
-	skill_points = 16
+	//skill_points = 16
 	min_skill = list(   SKILL_COMPUTER     = SKILL_BASIC,
 	                    SKILL_EVA          = SKILL_BASIC,
 	                    SKILL_CONSTRUCTION = SKILL_BASIC,
@@ -176,7 +176,7 @@
 	allowed_branches = list(/datum/mil_branch/employee, /datum/mil_branch/contractor)
 	allowed_ranks = list(/datum/mil_rank/civ/nt, /datum/mil_rank/civ/contractor)
 
-	skill_points = 12
+	//skill_points = 12
 	min_skill = list(   SKILL_COMPUTER     = SKILL_TRAINED,
 	                    SKILL_CONSTRUCTION = SKILL_BASIC,
 	                    SKILL_ELECTRICAL   = SKILL_TRAINED)

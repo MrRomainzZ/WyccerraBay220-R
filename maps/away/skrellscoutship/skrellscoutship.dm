@@ -88,7 +88,7 @@ var/global/const/access_skrellscoutship = "ACCESS_SKRELLSCOUT"
 	rank = /datum/mil_rank/skrell_fleet
 	allowed_branches = list(/datum/mil_branch/skrell_fleet)
 	allowed_ranks = list(/datum/mil_rank/skrell_fleet)
-	skill_points = 30
+	//skill_points = 30
 	is_semi_antagonist = TRUE
 	min_skill = list(SKILL_EVA = SKILL_TRAINED,
 					SKILL_HAULING = SKILL_TRAINED,

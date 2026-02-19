@@ -27,7 +27,7 @@
 	max_skill = list(   SKILL_COMBAT      = SKILL_MAX,
 	                    SKILL_WEAPONS     = SKILL_MAX,
 	                    SKILL_FORENSICS   = SKILL_MAX)
-	skill_points = 20
+	//skill_points = 20
 
 	access = list(
 		access_security, access_brig, access_armory, access_forensics_lockers,
@@ -48,7 +48,7 @@
 	minimal_player_age = 7
 	minimum_character_age = list(SPECIES_HUMAN = 25)
 	ideal_character_age = 35
-	skill_points = 14
+	//skill_points = 14
 	alt_titles = list(
 		"Criminal Investigator"
 	)
@@ -78,7 +78,7 @@
 	max_skill = list(   SKILL_COMBAT      = SKILL_EXPERIENCED,
 	                    SKILL_WEAPONS     = SKILL_EXPERIENCED,
 	                    SKILL_FORENSICS   = SKILL_MAX)
-	skill_points = 20
+	//skill_points = 20
 
 	access = list(
 		access_security, access_brig, access_forensics_lockers,

@@ -43,7 +43,7 @@
 			SKILL_SCIENCE		=	SKILL_MAX,
 			SKILL_ANATOMY		=	SKILL_MAX
 		)
-	skill_points = 30
+	//skill_points = 30
 
 	possible_goals = list(/datum/goal/achievement/notslimefodder)
 	// SIERRA TODO: need_exp_to_play
@@ -100,7 +100,7 @@
 		)
 
 
-	skill_points = 22
+	//skill_points = 22
 	possible_goals = list(/datum/goal/achievement/notslimefodder)
 
 /datum/job/scientist/get_description_blurb()
@@ -153,7 +153,7 @@
 			SKILL_ANATOMY		=	SKILL_EXPERIENCED
 		)
 
-	skill_points = 22
+	//skill_points = 22
 
 	access = list(
 			access_robotics,

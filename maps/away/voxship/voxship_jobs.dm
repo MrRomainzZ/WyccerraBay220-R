@@ -70,7 +70,7 @@
 		SKILL_ANATOMY = SKILL_MAX,
 		SKILL_CHEMISTRY = SKILL_MAX
 	)
-	skill_points = 20
+	//skill_points = 20
 
 /datum/job/submap/voxship_vox/engineer
 	title = "Shoal Technician"
@@ -110,7 +110,7 @@
 		SKILL_ANATOMY = SKILL_TRAINED,
 		SKILL_CHEMISTRY = SKILL_TRAINED
 	)
-	skill_points = 20
+	//skill_points = 20
 
 /datum/job/submap/voxship_vox/quill
 	title = "Quill"
@@ -150,7 +150,7 @@
 		SKILL_ANATOMY = SKILL_EXPERIENCED,
 		SKILL_CHEMISTRY = SKILL_EXPERIENCED
 	)
-	skill_points = 20
+	//skill_points = 20
 
 var/global/const/access_voxship = "ACCESS_VOXSHIP"
 /datum/access/vox

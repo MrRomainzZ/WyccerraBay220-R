@@ -28,7 +28,7 @@
 		SKILL_PILOT   = SKILL_BASIC
 	)
 	give_psionic_implant_on_join = FALSE
-	skill_points = 24
+	//skill_points = 24
 	economic_power = 10 // We use splitted from station account system, which need lover economic_power to not break things
 
 /datum/job/submap/merchant_leader/equip(mob/living/carbon/human/H)
@@ -82,7 +82,7 @@
 	give_psionic_implant_on_join = FALSE
 
 	economic_power = 4
-	skill_points = 24
+	//skill_points = 24
 
 /datum/job/submap/merchant/equip(mob/living/carbon/human/H)
 	outfit_type =  H.mind.role_alt_title!="Merchant Assistant" ? alt_titles[H.mind.role_alt_title] : outfit_type

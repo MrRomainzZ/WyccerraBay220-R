@@ -13,7 +13,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 26)
 	ideal_character_age = 29
 	economic_power = 9
-	skill_points = 22
+	//skill_points = 22
 
 	outfit_type = /singleton/hierarchy/outfit/job/sierra/crew/exploration/el
 	allowed_branches = list(/datum/mil_branch/employee)
@@ -190,7 +190,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 24)
 	ideal_character_age = 26
 	economic_power = 8
-	skill_points = 26
+	//skill_points = 26
 
 	min_skill = list(
 		SKILL_EVA     = SKILL_BASIC,
@@ -242,7 +242,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 24)
 	ideal_character_age = 26
 	economic_power = 7
-	skill_points = 20
+	//skill_points = 20
 
 	outfit_type = /singleton/hierarchy/outfit/job/sierra/crew/exploration/engineer
 	allowed_branches = list(

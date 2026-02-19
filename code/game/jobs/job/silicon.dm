@@ -13,7 +13,7 @@
 	outfit_type = /singleton/hierarchy/outfit/job/silicon/ai
 	loadout_allowed = FALSE
 	hud_icon = "hudblank"
-	skill_points = 0
+	//skill_points = 0
 	no_skill_buffs = TRUE
 	display_outfit_on_preview = FALSE
 	min_skill = list(
@@ -64,7 +64,7 @@
 	loadout_allowed = FALSE
 	outfit_type = /singleton/hierarchy/outfit/job/silicon/cyborg
 	hud_icon = "hudblank"
-	skill_points = 0
+	//skill_points = 0
 	no_skill_buffs = TRUE
 	display_outfit_on_preview = FALSE
 

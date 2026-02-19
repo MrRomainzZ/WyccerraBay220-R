@@ -24,7 +24,7 @@
 	                    SKILL_SCIENCE     = SKILL_MAX,
 	                    SKILL_COMBAT      = SKILL_EXPERIENCED,
 	                    SKILL_WEAPONS     = SKILL_EXPERIENCED)
-	skill_points = 22
+	//skill_points = 22
 
 	access = list(
 		access_pathfinder, access_explorer, access_eva, access_maint_tunnels, access_bridge, access_emergency_storage,

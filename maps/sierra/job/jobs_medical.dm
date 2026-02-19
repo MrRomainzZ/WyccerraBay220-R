@@ -8,7 +8,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 28)
 	ideal_character_age = 45
 	economic_power = 8
-	skill_points = 26
+	//skill_points = 26
 
 	total_positions = 2
 	spawn_positions = 2
@@ -65,7 +65,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 24)
 	ideal_character_age = 26
 	economic_power = 7
-	skill_points = 22
+	//skill_points = 22
 
 	alt_titles = list(
 		"Paramedic" = /singleton/hierarchy/outfit/job/sierra/crew/medical/doctor/paramedic
@@ -112,7 +112,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 20)
 	ideal_character_age = 21
 	economic_power = 3
-	skill_points = 18
+	//skill_points = 18
 
 	total_positions = 2
 	spawn_positions = 2
@@ -160,7 +160,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 24)
 	ideal_character_age = 26
 	economic_power = 5
-	skill_points = 18
+	//skill_points = 18
 
 	total_positions = 1
 	spawn_positions = 1

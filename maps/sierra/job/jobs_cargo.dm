@@ -19,7 +19,7 @@
 		SKILL_EVA         = SKILL_BASIC
 	)
 
-	skill_points = 14
+	//skill_points = 14
 
 	access = list(		access_maint_tunnels, access_emergency_storage, access_tech_storage,  access_cargo, access_guppy_helm,
 						access_cargo_bot, access_qm, access_mailsorting, access_expedition_shuttle, access_guppy, access_hangar,

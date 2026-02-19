@@ -40,7 +40,7 @@
 	max_skill = list(   SKILL_ANATOMY     = SKILL_MAX,
 	                    SKILL_DEVICES     = SKILL_MAX,
 	                    SKILL_SCIENCE     = SKILL_MAX)
-	skill_points = 20
+	//skill_points = 20
 	possible_goals = list(/datum/goal/achievement/notslimefodder)
 
 /datum/job/scientist
@@ -87,7 +87,7 @@
 		access_petrov_analysis, access_petrov_phoron, access_petrov_toxins, access_petrov_chemistry, access_petrov_control, access_torch_fax,
 		access_petrov_maint, access_radio_sci, access_radio_exp, access_research_storage
 	)
-	skill_points = 20
+	//skill_points = 20
 	possible_goals = list(/datum/goal/achievement/notslimefodder)
 
 /datum/job/scientist_assistant

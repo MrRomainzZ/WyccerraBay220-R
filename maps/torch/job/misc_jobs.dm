@@ -77,6 +77,6 @@ Civilian
 	                    SKILL_PILOT	  = SKILL_BASIC)
 
 	max_skill = list(   SKILL_PILOT       = SKILL_MAX)
-	skill_points = 24
+	//skill_points = 24
 	required_language = null
 	give_psionic_implant_on_join = FALSE

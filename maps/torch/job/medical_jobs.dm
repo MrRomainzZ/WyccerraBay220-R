@@ -33,7 +33,7 @@
 	max_skill = list(   SKILL_MEDICAL     = SKILL_MAX,
 	                    SKILL_ANATOMY     = SKILL_MAX,
 	                    SKILL_CHEMISTRY   = SKILL_MAX)
-	skill_points = 20
+	//skill_points = 20
 
 	access = list(
 		access_medical, access_morgue, access_virology, access_maint_tunnels, access_emergency_storage,
@@ -76,7 +76,7 @@
 	max_skill = list(   SKILL_MEDICAL     = SKILL_MAX,
 	                    SKILL_ANATOMY     = SKILL_MAX,
 	                    SKILL_CHEMISTRY   = SKILL_MAX)
-	skill_points = 16
+	//skill_points = 16
 
 	access = list(
 		access_medical, access_morgue, access_virology, access_maint_tunnels, access_emergency_storage,
@@ -130,7 +130,7 @@
 
 	software_on_spawn = list(/datum/computer_file/program/suit_sensors,
 							/datum/computer_file/program/camera_monitor)
-	skill_points = 22
+	//skill_points = 22
 
 /datum/job/medical_trainee
 	title = "Trainee Medical Technician"
@@ -155,7 +155,7 @@
 		/datum/mil_rank/fleet/e2
 	)
 
-	skill_points = 4
+	//skill_points = 4
 	no_skill_buffs = TRUE
 
 	min_skill = list(   SKILL_EVA     = SKILL_TRAINED,
@@ -204,7 +204,7 @@
 	max_skill = list(   SKILL_MEDICAL     = SKILL_BASIC,
 						SKILL_ANATOMY	  = SKILL_BASIC,
 	                    SKILL_CHEMISTRY   = SKILL_MAX)
-	skill_points = 16
+	//skill_points = 16
 
 	access = list(
 		access_medical, access_maint_tunnels, access_emergency_storage,

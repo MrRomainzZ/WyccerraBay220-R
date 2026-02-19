@@ -10,7 +10,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 38)
 	ideal_character_age = 42
 	economic_power = 20
-	skill_points = 25
+	//skill_points = 25
 
 	outfit_type = /singleton/hierarchy/outfit/job/sierra/crew/command/captain
 	total_positions = 1
@@ -51,7 +51,7 @@
 	minimal_player_age = 14
 	ideal_character_age = 45
 	economic_power = 14
-	skill_points = 30
+	//skill_points = 30
 
 	minimum_character_age = list(SPECIES_HUMAN = 28)
 	ideal_character_age = 45
@@ -126,7 +126,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 37)
 	ideal_character_age = 42
 	economic_power = 20
-	skill_points = 36
+	//skill_points = 36
 
 	outfit_type = /singleton/hierarchy/outfit/job/sierra/crew/research/rd
 	allowed_branches = list(
@@ -215,7 +215,7 @@
 		SKILL_CHEMISTRY		=	SKILL_MAX,
 		SKILL_VIROLOGY		=	SKILL_MAX
 	)
-	skill_points = 36
+	//skill_points = 36
 
 	access = list(
 		access_medical, access_morgue, access_maint_tunnels,
@@ -285,7 +285,7 @@
 		SKILL_ATMOS			=	SKILL_MAX,
 		SKILL_ENGINES		=	SKILL_MAX
 	)
-	skill_points = 30
+	//skill_points = 30
 
 	access = list(
 		access_engine, access_engine_equip, access_maint_tunnels,
@@ -356,7 +356,7 @@
 		SKILL_WEAPONS	=	SKILL_MAX,
 		SKILL_FORENSICS	=	SKILL_MAX
 	)
-	skill_points = 28
+	//skill_points = 28
 
 	access = list(
 		access_seceva, access_guard, access_security,
@@ -415,7 +415,7 @@
 		SKILL_FORENSICS		=	SKILL_BASIC,
 		SKILL_FINANCE		=	SKILL_BASIC
 	)
-	skill_points = 20
+	//skill_points = 20
 
 	access = list(
 		access_security, access_sec_doors, access_medical,
@@ -454,7 +454,7 @@
 	minimum_character_age = list(SPECIES_HUMAN = 24)
 	ideal_character_age = 26
 	economic_power = 7
-	skill_points = 20
+	//skill_points = 20
 
 	outfit_type = /singleton/hierarchy/outfit/job/sierra/crew/command/adjutant
 	allowed_branches = list(/datum/mil_branch/employee)

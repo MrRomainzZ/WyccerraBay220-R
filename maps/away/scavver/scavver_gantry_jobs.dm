@@ -39,7 +39,7 @@
 		SKILL_ANATOMY = SKILL_EXPERIENCED,
 		SKILL_CHEMISTRY = SKILL_EXPERIENCED
 	)
-	skill_points = 20
+	//skill_points = 20
 
 /datum/job/submap/scavver_doctor
 	title = "Salvage Doctor"
@@ -81,7 +81,7 @@
 		SKILL_ANATOMY = SKILL_MAX,
 		SKILL_CHEMISTRY = SKILL_MAX
 	)
-	skill_points = 20
+	//skill_points = 20
 
 /datum/job/submap/scavver_engineer
 	title = "Salvage Engineer"
@@ -125,7 +125,7 @@
 		SKILL_ANATOMY = SKILL_TRAINED,
 		SKILL_CHEMISTRY = SKILL_TRAINED
 	)
-	skill_points = 20
+	//skill_points = 20
 
 /obj/submap_landmark/spawnpoint/scavver_pilot
 	name = "Salvage Pilot"

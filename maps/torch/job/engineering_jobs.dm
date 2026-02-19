@@ -21,7 +21,7 @@
 		/datum/mil_rank/fleet/e7,
 		/datum/mil_rank/fleet/e8,
 	)
-	skill_points = 26
+	//skill_points = 26
 	min_skill = list( // 22 points
 		SKILL_COMPUTER = SKILL_TRAINED, // 2 points
 		SKILL_EVA = SKILL_TRAINED, // 2 points
@@ -93,7 +93,7 @@
 	                    SKILL_ELECTRICAL   = SKILL_MAX,
 	                    SKILL_ATMOS        = SKILL_MAX,
 	                    SKILL_ENGINES      = SKILL_MAX)
-	skill_points = 20
+	//skill_points = 20
 
 	access = list(
 		access_engine, access_engine_equip, access_maint_tunnels, access_external_airlocks, access_emergency_storage,
@@ -133,7 +133,7 @@
 		/datum/mil_rank/fleet/e2
 	)
 
-	skill_points = 4
+	//skill_points = 4
 	no_skill_buffs = TRUE
 
 	min_skill = list(   SKILL_COMPUTER     = SKILL_BASIC,
@@ -206,7 +206,7 @@
 	                    SKILL_DEVICES      = SKILL_MAX,
 	                    SKILL_MEDICAL      = SKILL_EXPERIENCED,
 	                    SKILL_ANATOMY      = SKILL_EXPERIENCED)
-	skill_points = 20
+	//skill_points = 20
 
 	access = list(
 		access_robotics, access_engine, access_solgov_crew, access_network, access_radio_eng

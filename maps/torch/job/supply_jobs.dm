@@ -28,7 +28,7 @@
 						SKILL_MECH        =	SKILL_BASIC)
 
 	max_skill = list(   SKILL_PILOT       = SKILL_MAX)
-	skill_points = 18
+	//skill_points = 18
 
 	access = list(
 		access_maint_tunnels, access_bridge, access_emergency_storage, access_tech_storage,  access_cargo, access_guppy_helm,
